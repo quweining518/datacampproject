@@ -1,5 +1,5 @@
 # DataCamp Project
-Self-finished datacamp project jupyter notebook (Python &amp; R); All tasks passed
+ Datacamp project jupyter notebook (Python &amp; R); All tasks passed
 
 ### Exploring the Bitcoin Cryptocurrency Market
 
